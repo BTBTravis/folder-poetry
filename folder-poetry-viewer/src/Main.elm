@@ -1,7 +1,6 @@
 module Main exposing (Model, Msg(..), init, main, update, view)
 
 import Browser
-import Debug exposing (log)
 import Html exposing (Html, a, div, p, span, text)
 import Html.Attributes exposing (class, classList)
 import Html.Events exposing (onClick)
@@ -47,7 +46,6 @@ problems/problem-10.txt---i'm scard
                 , fileName = getTitle str
                 }
             )
-        |> log "initProblems"
 
 
 type alias ProblemElement =
