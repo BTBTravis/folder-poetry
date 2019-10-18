@@ -8,9 +8,8 @@
 
 ---
 
-These my experimentations in folder poetry and how to represent it on the web
+These my experimentations in folder poetry and how to represent it on the web.
 
-*Poems:* https://folderpoetry.travisshears.com
+**Poems:** https://folderpoetry.travisshears.com
 
-*Inspiration:* https://www.are.na/travis-shears/folder-poetry-nyywoqrqans
-
+**Inspiration:** https://www.are.na/travis-shears/folder-poetry-nyywoqrqans
